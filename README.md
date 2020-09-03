@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about web
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prasanganath&show_icons=true&theme=radical)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prasanganath&show_icons=true)
+https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white
 
 
