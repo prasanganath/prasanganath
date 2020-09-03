@@ -10,7 +10,7 @@ I'm Sandun Wedage. I'm an Associate software engineer who develop Enterprices Ja
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Intervest Software Technologies
-- 🌱 I’m currently learning Golan
+- 🌱 I’m currently learning Java Golan
 - 👯 I’m looking to collaborate on Java and React Js projects
 - 💬 Ask me about web
 
