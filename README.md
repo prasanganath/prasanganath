@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-<img align="left" alt="prasanganath (Sandun Wedage)" width="22px" src="https://prasanganath.github.io/" />
+<img align="left" alt="prasanganath (Sandun Wedage)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 <img align="left" alt="Sandun Wedage | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 <img align="left" alt="Sandun Wedage | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />
 <img align="left" alt="User sandun wedage - Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />
