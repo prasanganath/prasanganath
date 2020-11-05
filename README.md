@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Sandun Wedage | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />
 <img align="left" alt="User sandun wedage - Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />
 <img align="left" alt="prasanganath (Sandun Wedage)"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/github.svg" />
-<br/><br/>
+<br/><br/><br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=prasanganath&show_icons=true&theme=radical)
 
