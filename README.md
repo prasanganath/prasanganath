@@ -3,13 +3,13 @@
 
 
 
-I'm Sandun Wedage. I'm an Associate software engineer who develop Enterprices Java Applications.
+I'm Sandun Wedage. I'm a software engineer who develop Enterprices Java Applications.
 
    
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on <a href = "https://www.intervest.lk/">Intervest Software Technologies</a>🌱 
+- 🔭 Software Engineer🌱 
 - 🌱 I’m currently learning Java,Golan
 - 👯 I’m looking to collaborate on Java and React Js projects🔭
 - 💬 Ask me about <a href= "https://prasanganath.github.io/">web</a>
