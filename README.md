@@ -9,7 +9,6 @@ I'm Sandun Wedage. I'm a software engineer who develop Enterprices Java Applicat
 
 Here are some ideas to get you started:
 
-- 🔭 Software Engineer🌱 
 - 🌱 I’m currently learning Java,Golan
 - 👯 I’m looking to collaborate on Java and React Js projects🔭
 - 💬 Ask me about <a href= "https://prasanganath.github.io/">web</a>
